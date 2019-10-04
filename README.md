@@ -71,7 +71,7 @@ The output should be 22. This is because the maximum value elements that Lisa ha
 
 
 
-##Challenge 6 - Starting and Ending well
+#Challenge 6 - Starting and Ending well
 
 You are a developer at Canary Investments, and are currently working on a project which involves handling an highly confidential portfolio of emerging market, real estate and technology stocks S. Si has value i.
 
