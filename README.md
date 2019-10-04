@@ -9,7 +9,7 @@
 
 
 
-##Challenge 2 - Risk and Reward
+#Challenge 2 - Risk and Reward
 
 A team of traders have a series of trades, numbered 0-i, that they can fulfill for a client.
 
@@ -43,7 +43,7 @@ Output: 50
 
 
 
-##Challenge 4 - Choosing Wisely
+#Challenge 4 - Choosing Wisely
 
 Lisa has a maximum total complexity of trades that she is able to fulfill in one day. In the morning, she is given a list of trades to choose from. Each one has a value, v and a complexity, c. What is the maximum value of trades that she can execute, given her complexity constraint?
 
