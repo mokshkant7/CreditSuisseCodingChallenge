@@ -9,7 +9,7 @@
 
 
 
-#Challenge 2 - Risk and Reward
+### Challenge 2 - Risk and Reward
 
 A team of traders have a series of trades, numbered 0-i, that they can fulfill for a client.
 
@@ -41,7 +41,7 @@ For the following input trader = [2, 10, 9, 10, 10] risk = [9, 1, 1, 6, 1] bonus
 
 Output: 50
 
-#Challenge 3 - Where did I finish?
+### Challenge 3 - Where did I finish?
 
 You are a participant in a hacking competition at Credit Suisse and want to track the progress of your rankings as you progress up the leaderboard. The leaderboard for the purpose of this challenge (not the actual scoring used) is to use Dense Ranking, which works like this:
 
@@ -72,7 +72,7 @@ And your scores yours[j] were
 You should return 4. This is because your ranks were [6, 4, 4, 2] and 4 is the modal value.
 
 
-#Challenge 4 - Choosing Wisely
+### Challenge 4 - Choosing Wisely
 
 Lisa has a maximum total complexity of trades that she is able to fulfill in one day. In the morning, she is given a list of trades to choose from. Each one has a value, v and a complexity, c. What is the maximum value of trades that she can execute, given her complexity constraint?
 
@@ -98,7 +98,7 @@ mc = 150
 
 The output should be 22. This is because the maximum value elements that Lisa has capacity for is at index 1 and 2, which have complexities 60 + 90 = 150 and values 10 + 12 = 22.
 
-#Challenge 5 - Self Preservation
+### Challenge 5 - Self Preservation
 
 You are a security software engineer at Canary Investments. The project your team is working on involves creating an application to mock the response to a potential high severity security threat and prevent it.
 
@@ -138,7 +138,7 @@ Thus, 2 instances of application X is enough to successfully counter this series
 
 Output = 2
 
-#Challenge 6 - Starting and Ending well
+### Challenge 6 - Starting and Ending well
 
 You are a developer at Canary Investments, and are currently working on a project which involves handling an highly confidential portfolio of emerging market, real estate and technology stocks S. Si has value i.
 
